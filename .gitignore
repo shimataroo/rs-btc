@@ -13,6 +13,5 @@ Cargo.lock
 # Added by cargo
 
 /target
-/ch*/target/
 
 .idea
